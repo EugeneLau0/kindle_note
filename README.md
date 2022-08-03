@@ -19,8 +19,8 @@
 1. - [x] 文件解析成 Java 对象
 2. - [x] Java 对象生成 Markdown 笔记文件
 3. - [ ] Markdown 转 Word/PDF
-4. - [ ] 增加 log 模块
-5. - [ ] 增加 release：exe 应用程序，支持 Windows
+4. - [x] ~~增加 log 模块~~，为了减小程序体积，决定不引入 log 模块
+5. - [x] 增加 release：exe 应用程序，支持 Windows
 6. - [ ] 增加 release：dmg 应用程序，支持 Mac
     
 ## 后记
